@@ -9,7 +9,7 @@ A Node.js CLI tool to generate a common folder and file structure for e-commerce
 Install the CLI globally via npm:
 
 ```
-npm install -g ecommerce-setup-cli
+npm i e-commerce-setup-lib
 ```
 # Usage
 Run the following command to generate a new e-commerce project structure:
