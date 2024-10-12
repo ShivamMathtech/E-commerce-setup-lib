@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-setup-lib",
+  "version": "1.0.0",
+  "description": "Porvide the all folder structure of the e-commerce website development",
+  "main": "index.js",
+  "scripts": {
+    "test": "ecommerce-setup my-ecommerce-project"
+  },
+  "bin": {
+  "ecommerce-setup": "index.js"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamMathtech/E-commerce-srtup-lib.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Shivam Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShivamMathtech/E-commerce-srtup-lib/issues"
+  },
+  "homepage": "https://github.com/ShivamMathtech/E-commerce-srtup-lib#readme"
+}
